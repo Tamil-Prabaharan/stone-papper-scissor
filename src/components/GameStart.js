@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function GameStart(){
     return(
         <div className="gamestart">
-           <h1>welcome to game world</h1>
+           <h1>welcome to game world!</h1>
            <div className="gameouter">
             <h1>stone paper scissor</h1>
             <ul>
